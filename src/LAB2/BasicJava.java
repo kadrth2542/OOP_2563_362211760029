@@ -8,7 +8,7 @@ public class BasicJava {
         int number;
         number = 100; //ตัวแปร number เก็บค่าข้อมูลจำนวนเต็ม 100
 
-        System.out.println((number));
+        System.out.println((number)) ;
 
     }//main
 }//class
